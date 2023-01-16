@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## QiLu Team waiting for you
+## QiLuTeam waiting for you
